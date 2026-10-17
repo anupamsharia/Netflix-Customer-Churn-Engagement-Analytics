@@ -2,9 +2,9 @@
 
 [![Author](https://img.shields.io/badge/Author-Anupam%20Sharia-red?style=for-the-badge&logo=github)](https://github.com/anupamsharia)
 [![Repo](https://img.shields.io/badge/Repo-Netflix--Customer--Churn--Engagement--Analytics-150458?style=for-the-badge&logo=github)](https://github.com/anupamsharia/Netflix-Customer-Churn-Engagement-Analytics)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=for-the-badge&logo=googlechrome)](https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)](#)
 
 An end-to-end **exploratory data analysis + churn prediction** project developed by **Anupam Sharia** on a Netflix-style subscription dataset of 5,000 customers. The centerpiece is a structured **30-question EDA notebook** that moves from data quality checks through demographic/behavioral churn drivers, statistical hypothesis testing, and a Random Forest churn-prediction model achieving **97% accuracy** and **0.996 ROC-AUC**. Includes an interactive in-browser live demo and Power BI & Tableau dashboards.
 
@@ -96,8 +96,9 @@ can drop straight into building visuals without re-deriving anything in-tool.
 
 ## 🎮 Interactive Live Demo
 
-[`demo/churn_predictor_demo.html`](demo/churn_predictor_demo.html) is a standalone,
-zero-dependency page — open it directly in any browser (or host it via GitHub Pages).
+🔗 **Live Web Dashboard:** [https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/](https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/)
+
+[`index.html`](index.html) is a standalone, zero-dependency executive dashboard hosted live via GitHub Pages.
 It includes:
 
 - **Real customer explorer** — browse 100 actual test-set customers, sort/filter/search,
