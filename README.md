@@ -285,6 +285,7 @@ print(evaluate_model(model, X_test, y_test))
 **Anupam Sharia**
 - **GitHub:** [@anupamsharia](https://github.com/anupamsharia)
 - **Repository:** [Netflix-Customer-Churn-Engagement-Analytics](https://github.com/anupamsharia/Netflix-Customer-Churn-Engagement-Analytics)
+- **Live Interactive Dashboard:** [https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/](https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/)
 - **Email:** [anupamsharia2004@gmail.com](mailto:anupamsharia2004@gmail.com)
 
 ---
