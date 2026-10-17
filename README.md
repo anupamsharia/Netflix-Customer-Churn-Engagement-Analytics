@@ -8,6 +8,8 @@
 
 An end-to-end **exploratory data analysis + churn prediction** project developed by **Anupam Sharia** on a Netflix-style subscription dataset of 5,000 customers. The centerpiece is a structured **30-question EDA notebook** that moves from data quality checks through demographic/behavioral churn drivers, statistical hypothesis testing, and a Random Forest churn-prediction model achieving **97% accuracy** and **0.996 ROC-AUC**. Includes an interactive in-browser live demo and Power BI & Tableau dashboards.
 
+- **Live Interactive Dashboard:** [https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/]
+
 > 📓 Inspired by the analytical structure of [Netflix Churn Analytics & 30 Questions EDA](https://www.kaggle.com/code/zeyadmohamed26/netflix-churn-analytics-30-questions-eda) on Kaggle, developed as a modular, production-style project with reusable source code, statistical testing, and a full ML pipeline.
 
 ---
@@ -285,7 +287,7 @@ print(evaluate_model(model, X_test, y_test))
 **Anupam Sharia**
 - **GitHub:** [@anupamsharia](https://github.com/anupamsharia)
 - **Repository:** [Netflix-Customer-Churn-Engagement-Analytics](https://github.com/anupamsharia/Netflix-Customer-Churn-Engagement-Analytics)
-- **Live Interactive Dashboard:** [https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/](https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/)
+(https://anupamsharia.github.io/Netflix-Customer-Churn-Engagement-Analytics/)
 - **Email:** [anupamsharia2004@gmail.com](mailto:anupamsharia2004@gmail.com)
 
 ---
